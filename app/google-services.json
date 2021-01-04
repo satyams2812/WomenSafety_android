@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746679574165",
+    "firebase_url": "https://mysimpleotp-24906.firebaseio.com",
+    "project_id": "mysimpleotp-24906",
+    "storage_bucket": "mysimpleotp-24906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746679574165:android:51a5ec1e1b0c73ed0bc59c",
+        "android_client_info": {
+          "package_name": "e.satyamsharma.women_safety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746679574165-ooi1rrjfjk5pfqsb3j9tko757f1i3fvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.satyamsharma.women_safety",
+            "certificate_hash": "7a84dcafd4e7f8af8a0018c597ea30c7a8fdbcd1"
+          }
+        },
+        {
+          "client_id": "746679574165-toe2nub1rop4omkt8sk3t3c1clrl3h14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdd8fLpkR4DdMkvjq3oJAUcF_tFMf8Zx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746679574165-toe2nub1rop4omkt8sk3t3c1clrl3h14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
